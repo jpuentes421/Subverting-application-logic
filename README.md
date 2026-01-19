@@ -1,5 +1,10 @@
 # Subverting-application-logic
 
+Author: Jessica Puentes
+
+
+Published: January 19, 2026
+
 ## Objective
 
  Completing a lab that contains a SQL injection within the login function. Will have to exploit the vulnerability by performing a SQL injection attack that logs in to the application as the <kbd>administrator</kbd> user.
